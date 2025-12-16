@@ -1,24 +1,24 @@
 # Public Grievance Portal
 
-## 📌 Project Overview
-The Public Grievance Portal is a web-based application that enables citizens to register complaints related to public services and track their grievance status. The system improves transparency and efficiency by allowing administrators to manage complaints based on administrative zones.
+## 📌 Overview
+The Public Grievance Portal is a web-based application designed to help citizens register complaints related to public services and track their grievance status. The system improves transparency and efficiency by enabling administrators to manage and resolve complaints based on administrative zones.
 
 ---
 
 ## 🎯 Objectives
-- Provide a simple and accessible platform for grievance submission  
+- Provide an easy and accessible platform for grievance submission  
 - Enable efficient complaint tracking and resolution  
 - Improve accountability in public service management  
 
 ---
 
-## ⚙️ Features
-- User-friendly complaint registration  
+## ⚙️ Key Features
+- User-friendly complaint registration form  
 - Zone-based complaint categorization  
 - Secure user and admin authentication  
-- Admin dashboard for complaint management  
-- Complaint tracking using reference ID  
-- Responsive and clean user interface  
+- Admin dashboard for complaint monitoring and resolution  
+- Complaint tracking using a unique reference ID  
+- Responsive and intuitive user interface  
 
 ---
 
@@ -29,5 +29,3 @@ The Public Grievance Portal is a web-based application that enables citizens to 
 - **Tools:** VS Code, Git, GitHub  
 
 ---
-
-## 📂 Project Structure
