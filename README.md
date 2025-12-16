@@ -24,7 +24,7 @@ The Public Grievance Portal is a web-based application designed to help citizens
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java / Python  
+- **Backend:** PHP  
 - **Database:** MySQL  
 - **Tools:** VS Code, Git, GitHub  
 
